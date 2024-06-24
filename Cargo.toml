@@ -1,0 +1,12 @@
+[package]
+name = "groth_verifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.4.3"
+near-bigint = "1.0.1"
+near_groth16_verifier = "1.0.1"
+eth-encode-packed = "0.1.0"
+easy-hasher = "2.2.1"
+
